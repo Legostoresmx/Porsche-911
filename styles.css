@@ -25,7 +25,7 @@ header{
 /* fin header */
 
 .main--section{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/legostores-5e8b8.appspot.com/o/porsche%2Fbackgrounds%2FFONDO_1_1280x800.png?alt=media&token=e24e25f3-9333-4dc3-b42f-47b1e4c11daa");
+    background-image: url("./assets/FONDO_1_1280x800.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ header{
 
 /* inicio info section */
 .hero-porsche{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/legostores-5e8b8.appspot.com/o/porsche%2Fbackgrounds%2FFONDO_2_1280x800.png?alt=media&token=b5195ac2-e5e4-42c1-a601-7d410b066c8e");
+    background-image: url("./assets/FONDO_2_1280x800.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -226,7 +226,7 @@ header{
 /* incio instructions */
 
 .instructions{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/legostores-5e8b8.appspot.com/o/porsche%2Fbackgrounds%2FFONDO_3_1280x600.png?alt=media&token=883db9fb-b619-41ca-8b4d-cc40083a31a3");
+    background-image: url("./assets/FONDO_3_1280x600.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
